@@ -1,4 +1,4 @@
 # REACT-WEBPACK-STARTER
 creating react app from scratch
 
-*_ Italic Text_*
+**_Commands**
